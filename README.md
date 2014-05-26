@@ -1,2 +1,3 @@
-a-tour-of-ocaml
+A tour of OCaml
 ===============
+
